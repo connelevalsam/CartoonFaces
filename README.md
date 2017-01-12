@@ -1,0 +1,2 @@
+# CartoonFaces
+Its a javaFX project. It's a mini-game that tries to put different face layers together to form a full face but with different layers e.g Harry potters hair with Christian Bale forehead, with Obiwan eyes, with Beckham nose and Ronaldo mouth and Messi jaw. But i need help to finish it. It's a guessing game kind-of with DnD features and looks cool. Now when you drag a wrong name to a picture for example, drag ronaldo's name to Messi's jaw that means the jaw belongs to Ronaldo it shows and error.
